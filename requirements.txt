@@ -1,0 +1,13 @@
+tensorflow==2.16.1
+keras==3.3.3
+gensim==4.3.2
+h5py
+scikit-learn    
+pyyaml        
+numpy      
+nltk    
+pandas      
+matplotlib
+jupyter
+ipykernel
+seaborn
